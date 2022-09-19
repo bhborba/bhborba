@@ -4,14 +4,9 @@
 - 👀 Interested about iOS development
 - 👨🏻‍💻 I'm daily working with React, NodeJS and GraphQL
 
-<br>
-
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Henrique%20de%20Borba-2c2c2c?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhborba/)](https://www.linkedin.com/in/bhborba)
-
-
-<br>
 
 ## Coding activity
 
