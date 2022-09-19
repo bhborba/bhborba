@@ -1,6 +1,6 @@
 # Hey, I'm Bruno 👋
 
-- 🌱 I'm currently learning Blazor and UI/UX
+- 🌱 I'm currently learning .NET MAUI Blazor and UI/UX
 - 👀 Interested about iOS development
 - 👨🏻‍💻 I'm daily working with React, NodeJS and GraphQL
 
