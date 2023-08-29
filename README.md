@@ -1,7 +1,6 @@
 # Hey, I'm Bruno 👋
 
-- 🌱 I'm currently learning UI/UX and CSS
-- 👀 Interested about iOS development
+- 🌱 I'm currently learning Swift
 - 👨🏻‍💻 I'm daily working with React, NodeJS and GraphQL
 
 ## Contact
